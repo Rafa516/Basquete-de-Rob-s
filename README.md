@@ -22,14 +22,14 @@ Exemplos
 Entrada
 1720
 Saída
-3
+3,
 Entrada
 250
 Saída
-1
+1,
 Entrada
 1400
 Saída
-2
+2.
 	
  
